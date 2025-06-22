@@ -18,7 +18,7 @@ The app currently includes the following key screens:
 Click below to view the complete high-fidelity design:
 
 👉 [View Design on Figma](https://www.figma.com/design/ipPEgC1oiVLegZV3faIJHB/WorkoutHighFedility?node-id=1-322&t=xe8K3Wx8vsUS6sc7-1) 
-_(Ensure the link is publicly viewable or accessible to reviewers)_
+
 
 
 ## 🎯 Objective
